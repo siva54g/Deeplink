@@ -2,7 +2,7 @@
 
 This repo is for reviewing experimental features before adding to main project.
 
-How to commit your feature
+**How to commit your feature**
 
 clone the main branch
 create a branch following the branch name convention eg. WPB-XYZ-some-isolated-feature
