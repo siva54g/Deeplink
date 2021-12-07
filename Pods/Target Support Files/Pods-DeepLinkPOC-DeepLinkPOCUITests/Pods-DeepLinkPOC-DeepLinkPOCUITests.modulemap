@@ -1,0 +1,6 @@
+framework module Pods_DeepLinkPOC_DeepLinkPOCUITests {
+  umbrella header "Pods-DeepLinkPOC-DeepLinkPOCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
